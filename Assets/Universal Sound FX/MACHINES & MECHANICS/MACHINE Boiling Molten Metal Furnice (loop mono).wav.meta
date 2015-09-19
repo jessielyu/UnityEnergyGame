@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 243213f681ca8ea48907b46cf4e5405a
+labels:
+- v1.1
+- USFX
+- machine
+- loop
+- mono
+- furnice
+- molten
+AudioImporter:
+  serializedVersion: 4
+  format: -1
+  quality: -1
+  stream: 1
+  3D: 1
+  forceToMono: 0
+  useHardware: 0
+  loopable: 0
+  userData: 

@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Plus Material
+  m_Shader: {fileID: 4800000, guid: 49476deeeef9e447c9f21759b7021df0, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_CustomRenderQueue: -1
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _BumpMap
+        second:
+          m_Texture: {fileID: 2800000, guid: d0f65ecb3ede848caa1f6c46d00b13b0, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _ColorControl
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _ColorControlCube
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _CubeMap
+        second:
+          m_Texture: {fileID: 8900000, guid: 4888a50633c0744b78957717f7650e63, type: 2}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _MainAlpha
+        second: .791044772
+      data:
+        first:
+          name: _Specular
+        second: .0401492566
+      data:
+        first:
+          name: _Gloss
+        second: 12.4626856
+      data:
+        first:
+          name: _WaveScale
+        second: .12283583
+      data:
+        first:
+          name: _Reflectivity
+        second: .708955288
+    m_Colors:
+      data:
+        first:
+          name: _Color
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _SpecColor
+        second: {r: .275673866, g: .319974035, b: .373134315, a: 0}
+      data:
+        first:
+          name: _MainColor
+        second: {r: .0373134613, g: .0373134613, b: .0373134613, a: 0}
+      data:
+        first:
+          name: WaveSpeed
+        second: {r: 2, g: 3, b: -1, a: -3}

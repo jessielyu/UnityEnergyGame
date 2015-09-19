@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/SpringController.cs">
+    <Files>
+      <File FileName="Assets/SpringController.cs" Line="11" Column="46" />
+      <File FileName="Assets/CheeseController.cs" Line="11" Column="1" />
+      <File FileName="Assets/FailTriggerController.cs" Line="23" Column="2" />
+      <File FileName="Assets/NextLevelController.cs" Line="5" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

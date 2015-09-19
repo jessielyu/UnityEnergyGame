@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 976f512dd4f034647a0eb5a4acbff8ea
+labels:
+- USFX
+- motor
+- servo
+- robotic
+- mono
+AudioImporter:
+  serializedVersion: 4
+  format: -1
+  quality: -1
+  stream: 1
+  3D: 1
+  forceToMono: 0
+  useHardware: 0
+  loopable: 0
+  userData: 

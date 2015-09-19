@@ -1,0 +1,2521 @@
+fileFormatVersion: 2
+guid: 8136c00f281bdb042b4bb91f8f5a1ddf
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: chest
+    100002: Eye_L
+    100004: Eye_R
+    100006: f_index_01_L
+    100008: f_index_01_R
+    100010: f_index_02_L
+    100012: f_index_02_R
+    100014: f_index_03_L
+    100016: f_index_03_R
+    100018: f_middle_01_L
+    100020: f_middle_01_R
+    100022: f_middle_02_L
+    100024: f_middle_02_R
+    100026: f_middle_03_L
+    100028: f_middle_03_R
+    100030: f_pinky_01_L
+    100032: f_pinky_01_R
+    100034: f_pinky_02_L
+    100036: f_pinky_02_R
+    100038: f_pinky_03_L
+    100040: f_pinky_03_R
+    100042: f_ring_01_L
+    100044: f_ring_01_R
+    100046: f_ring_02_L
+    100048: f_ring_02_R
+    100050: f_ring_03_L
+    100052: f_ring_03_R
+    100054: foot_L
+    100056: foot_R
+    100058: forearm_L
+    100060: forearm_R
+    100062: hand_L
+    100064: hand_R
+    100066: head
+    100068: hips
+    100070: hips_main
+    100072: Jaw
+    100074: Male_Base
+    100076: metarig
+    100078: //RootNode
+    100080: neck
+    100082: palm_01_L
+    100084: palm_01_R
+    100086: palm_02_L
+    100088: palm_02_R
+    100090: palm_03_L
+    100092: palm_03_R
+    100094: palm_04_L
+    100096: palm_04_R
+    100098: shin_L
+    100100: shin_R
+    100102: shoulder_L
+    100104: shoulder_R
+    100106: Sphere
+    100108: Sphere_001
+    100110: spine
+    100112: thigh_L
+    100114: thigh_R
+    100116: thumb_01_L
+    100118: thumb_01_R
+    100120: thumb_02_L
+    100122: thumb_02_R
+    100124: thumb_03_L
+    100126: thumb_03_R
+    100128: toe_L
+    100130: toe_R
+    100132: upper_arm_L
+    100134: upper_arm_R
+    100136: Elbow_L
+    100138: elbow_R
+    100140: Eyes_IK
+    100142: finger_FK_shape
+    100144: finger_main_shape
+    100146: finger_main_shape_R
+    100148: foot_IK_L
+    100150: Foot_IK_Main_L
+    100152: Foot_IK_Main_R
+    100154: foot_IK_R
+    100156: foot_IK_shape_L
+    100158: foot_IK_shape_R
+    100160: foot_roll_shape_L
+    100162: foot_roll_shape_R
+    100164: forearm_FK_shape_L
+    100166: forearm_FK_shape_R
+    100168: hand_IK_L
+    100170: hand_IK_R
+    100172: hand_shape_L
+    100174: hand_shape_R
+    100176: head_shape
+    100178: hips_shape
+    100180: kawasaki
+    100182: neck_shape
+    100184: palm_shape_L
+    100186: palm_shape_R
+    100188: pole_shape_L
+    100190: pole_shape_R
+    100192: pole_target_L
+    100194: pole_target_R
+    100196: ribs_shape
+    100198: Roll_Back_L
+    100200: Roll_Back_R
+    100202: Roll_Front_L
+    100204: Roll_Front_R
+    100206: Roll_Main_L
+    100208: Roll_Main_R
+    100210: shoulder_shape_L
+    100212: shoulder_shape_R
+    100214: spine_shape
+    100216: toe_shape_L
+    100218: toe_shape_R
+    100220: upper_arm_FK_shape_L
+    100222: upper_arm_FK_shape_R
+    400000: chest
+    400002: Eye_L
+    400004: Eye_R
+    400006: f_index_01_L
+    400008: f_index_01_R
+    400010: f_index_02_L
+    400012: f_index_02_R
+    400014: f_index_03_L
+    400016: f_index_03_R
+    400018: f_middle_01_L
+    400020: f_middle_01_R
+    400022: f_middle_02_L
+    400024: f_middle_02_R
+    400026: f_middle_03_L
+    400028: f_middle_03_R
+    400030: f_pinky_01_L
+    400032: f_pinky_01_R
+    400034: f_pinky_02_L
+    400036: f_pinky_02_R
+    400038: f_pinky_03_L
+    400040: f_pinky_03_R
+    400042: f_ring_01_L
+    400044: f_ring_01_R
+    400046: f_ring_02_L
+    400048: f_ring_02_R
+    400050: f_ring_03_L
+    400052: f_ring_03_R
+    400054: foot_L
+    400056: foot_R
+    400058: forearm_L
+    400060: forearm_R
+    400062: hand_L
+    400064: hand_R
+    400066: head
+    400068: hips
+    400070: hips_main
+    400072: Jaw
+    400074: Male_Base
+    400076: metarig
+    400078: //RootNode
+    400080: neck
+    400082: palm_01_L
+    400084: palm_01_R
+    400086: palm_02_L
+    400088: palm_02_R
+    400090: palm_03_L
+    400092: palm_03_R
+    400094: palm_04_L
+    400096: palm_04_R
+    400098: shin_L
+    400100: shin_R
+    400102: shoulder_L
+    400104: shoulder_R
+    400106: Sphere
+    400108: Sphere_001
+    400110: spine
+    400112: thigh_L
+    400114: thigh_R
+    400116: thumb_01_L
+    400118: thumb_01_R
+    400120: thumb_02_L
+    400122: thumb_02_R
+    400124: thumb_03_L
+    400126: thumb_03_R
+    400128: toe_L
+    400130: toe_R
+    400132: upper_arm_L
+    400134: upper_arm_R
+    400136: Elbow_L
+    400138: elbow_R
+    400140: Eyes_IK
+    400142: finger_FK_shape
+    400144: finger_main_shape
+    400146: finger_main_shape_R
+    400148: foot_IK_L
+    400150: Foot_IK_Main_L
+    400152: Foot_IK_Main_R
+    400154: foot_IK_R
+    400156: foot_IK_shape_L
+    400158: foot_IK_shape_R
+    400160: foot_roll_shape_L
+    400162: foot_roll_shape_R
+    400164: forearm_FK_shape_L
+    400166: forearm_FK_shape_R
+    400168: hand_IK_L
+    400170: hand_IK_R
+    400172: hand_shape_L
+    400174: hand_shape_R
+    400176: head_shape
+    400178: hips_shape
+    400180: kawasaki
+    400182: neck_shape
+    400184: palm_shape_L
+    400186: palm_shape_R
+    400188: pole_shape_L
+    400190: pole_shape_R
+    400192: pole_target_L
+    400194: pole_target_R
+    400196: ribs_shape
+    400198: Roll_Back_L
+    400200: Roll_Back_R
+    400202: Roll_Front_L
+    400204: Roll_Front_R
+    400206: Roll_Main_L
+    400208: Roll_Main_R
+    400210: shoulder_shape_L
+    400212: shoulder_shape_R
+    400214: spine_shape
+    400216: toe_shape_L
+    400218: toe_shape_R
+    400220: upper_arm_FK_shape_L
+    400222: upper_arm_FK_shape_R
+    2300000: finger_FK_shape
+    2300002: finger_main_shape
+    2300004: finger_main_shape_R
+    2300006: foot_IK_shape_L
+    2300008: foot_IK_shape_R
+    2300010: foot_roll_shape_L
+    2300012: foot_roll_shape_R
+    2300014: forearm_FK_shape_L
+    2300016: forearm_FK_shape_R
+    2300018: hand_shape_L
+    2300020: hand_shape_R
+    2300022: head_shape
+    2300024: hips_shape
+    2300026: kawasaki
+    2300028: neck_shape
+    2300030: palm_shape_L
+    2300032: palm_shape_R
+    2300034: pole_shape_L
+    2300036: pole_shape_R
+    2300038: ribs_shape
+    2300040: shoulder_shape_L
+    2300042: shoulder_shape_R
+    2300044: spine_shape
+    2300046: toe_shape_L
+    2300048: toe_shape_R
+    2300050: upper_arm_FK_shape_L
+    2300052: upper_arm_FK_shape_R
+    3300000: finger_FK_shape
+    3300002: finger_main_shape
+    3300004: finger_main_shape_R
+    3300006: foot_IK_shape_L
+    3300008: foot_IK_shape_R
+    3300010: foot_roll_shape_L
+    3300012: foot_roll_shape_R
+    3300014: forearm_FK_shape_L
+    3300016: forearm_FK_shape_R
+    3300018: hand_shape_L
+    3300020: hand_shape_R
+    3300022: head_shape
+    3300024: hips_shape
+    3300026: kawasaki
+    3300028: neck_shape
+    3300030: palm_shape_L
+    3300032: palm_shape_R
+    3300034: pole_shape_L
+    3300036: pole_shape_R
+    3300038: ribs_shape
+    3300040: shoulder_shape_L
+    3300042: shoulder_shape_R
+    3300044: spine_shape
+    3300046: toe_shape_L
+    3300048: toe_shape_R
+    3300050: upper_arm_FK_shape_L
+    3300052: upper_arm_FK_shape_R
+    4300000: Sphere_001
+    4300002: Sphere
+    4300004: Male_Base
+    4300006: kawasaki
+    7400000: MotorbikeLookBack
+    7400002: MotorbikeAirWalkTransitions
+    7400004: MotorbikeBackwardSittingTransition
+    7400006: MotorbikeBackwardSittingCheer
+    7400008: MotorbikeBackwardStandTransition
+    7400010: MotorbikeHandlebarSitTransition
+    7400012: MotorbikeHandstandTransition
+    7400014: MotorbikeHeadStandTransition
+    7400016: MotorbikeHeartAttackTransitions
+    7400018: MotorbikeIdle
+    7400020: MotorbikeLassoTransition
+    7400022: MotorbikeLassoBack
+    7400024: MotorbikeLassoFwd
+    7400026: MotorbikeLassoLeft
+    7400028: MotorbikeLassoRight
+    7400030: MotorbikeLookBackTransition
+    7400032: MotorbikeSeatStandTransition
+    7400034: MotorbikeSeatStandWheelyTransition
+    7400036: MotorbikeShootBack
+    7400038: MotorbikeShootFwd
+    7400040: MotorbikeShootLeft
+    7400042: MotorbikeShootRight
+    7400044: MotorbikeSpecialFlip
+    7400046: MotorbikeSuperman
+    7400048: MotorbikeTurnRight
+    7400050: MotorbikeWheelyTransitions
+    7400052: MotorbikeWheelyNoHandsTransition
+    7400054: MotorbikeAirWalk
+    7400056: MotorbikeBackwardSitting
+    7400058: MotorbikeBackwardStand
+    7400060: MotorbikeHandlebarSit
+    7400062: MotorbikeHandstand
+    7400064: MotorbikeHeadStand
+    7400066: MotorbikeHeartAttack
+    7400068: MotorbikeLasso
+    7400070: MotorbikeSeatStand
+    7400072: MotorbikeSeatStandWheely
+    7400074: MotorbikeTurnLeft
+    7400076: MotorbikeWheely
+    7400078: MotorbikeWheelyNoHands
+    7400080: MotorbikeTurnRight
+    7400082: MotorbikeEnter
+    7400084: MotorbikeEnterStep
+    7400086: MotorbikeExit
+    7400088: MotorbikeExitStep
+    9500000: //RootNode
+    13700000: Male_Base
+    13700002: Sphere
+    13700004: Sphere_001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: MotorbikeAirWalkTransitions
+      takeName: MotorbikeAirWalk
+      firstFrame: 0
+      lastFrame: 74
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: .590747297
+        functionName: NewEvent
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: MotorbikeBackwardSittingTransition
+      takeName: MotorbikeBackwardSitting
+      firstFrame: 0
+      lastFrame: 131
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: MotorbikeBackwardSittingCheer
+      takeName: MotorbikeBackwardSittingCheer
+      firstFrame: -1
+      lastFrame: 76
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves:
+      - name: Curve
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: -Infinity
+            value: NaN
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 0
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 1
+            value: 1
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: MotorbikeBackwardStandTransition
+      takeName: MotorbikeBackwardStand
+      firstFrame: -1
+      lastFrame: 178
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: MotorbikeHandlebarSitTransition
+      takeName: MotorbikeHandlebarSit
+      firstFrame: -1
+      lastFrame: 99
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: MotorbikeHandstandTransition
+      takeName: MotorbikeHandstand
+      firstFrame: -1
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: MotorbikeHeadStandTransition
+      takeName: MotorbikeHeadStand
+      firstFrame: -1
+      lastFrame: 185
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: MotorbikeHeartAttackTransitions
+      takeName: MotorbikeHeartAttack
+      firstFrame: -1
+      lastFrame: 81
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: MotorbikeIdle
+      takeName: MotorbikeIdle
+      firstFrame: -1
+      lastFrame: 64
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: MotorbikeLassoTransition
+      takeName: MotorbikeLasso
+      firstFrame: -1
+      lastFrame: 55
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: MotorbikeLassoBack
+      takeName: MotorbikeLassoBack
+      firstFrame: -1
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves:
+      - name: Curve
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 1
+            value: 1
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: MotorbikeLassoFwd
+      takeName: MotorbikeLassoFwd
+      firstFrame: -1
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves:
+      - name: Curve
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 1
+            value: 1
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: MotorbikeLassoLeft
+      takeName: MotorbikeLassoLeft
+      firstFrame: -1
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves:
+      - name: Curve
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 1
+            value: 1
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: MotorbikeLassoRight
+      takeName: MotorbikeLassoRight
+      firstFrame: -1
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves:
+      - name: Curve
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 1
+            value: 1
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: MotorbikeLookBackTransition
+      takeName: MotorbikeLookBack
+      firstFrame: -1
+      lastFrame: 51
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: MotorbikeSeatStandTransition
+      takeName: MotorbikeSeatStand
+      firstFrame: -1
+      lastFrame: 81
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: MotorbikeSeatStandWheelyTransition
+      takeName: MotorbikeSeatStandWheely
+      firstFrame: -1
+      lastFrame: 64
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: MotorbikeShootBack
+      takeName: MotorbikeShootBack
+      firstFrame: -1
+      lastFrame: 56
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves:
+      - name: Curve
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: -Infinity
+            value: NaN
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 0
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 1
+            value: 1
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: MotorbikeShootFwd
+      takeName: MotorbikeShootFwd
+      firstFrame: -1
+      lastFrame: 57
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves:
+      - name: Curve
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 1
+            value: 1
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: MotorbikeShootLeft
+      takeName: MotorbikeShootLeft
+      firstFrame: -1
+      lastFrame: 73
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves:
+      - name: Curve
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 1
+            value: 1
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: MotorbikeShootRight
+      takeName: MotorbikeShootRight
+      firstFrame: -1
+      lastFrame: 57
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves:
+      - name: Curve
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 1
+            value: 1
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: MotorbikeSpecialFlip
+      takeName: MotorbikeSpecialFlip
+      firstFrame: -1
+      lastFrame: 35
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves:
+      - name: Curve
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 1
+            value: 1
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: MotorbikeSuperman
+      takeName: MotorbikeSuperman
+      firstFrame: -1
+      lastFrame: 81
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves:
+      - name: Curve
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 1
+            value: 1
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: MotorbikeTurnRight
+      takeName: MotorbikeTurn
+      firstFrame: -1
+      lastFrame: 71
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves:
+      - name: Curve
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 1
+            value: 1
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: MotorbikeWheelyTransitions
+      takeName: MotorbikeWheely
+      firstFrame: -1
+      lastFrame: 65
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: MotorbikeWheelyNoHandsTransition
+      takeName: MotorbikeWheelyNoHands
+      firstFrame: -1
+      lastFrame: 65
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: MotorbikeAirWalk
+      takeName: MotorbikeAirWalk
+      firstFrame: 22
+      lastFrame: 52
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: MotorbikeBackwardSitting
+      takeName: MotorbikeBackwardSitting
+      firstFrame: 41
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: MotorbikeBackwardStand
+      takeName: MotorbikeBackwardStand
+      firstFrame: 59
+      lastFrame: 119
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: MotorbikeHandlebarSit
+      takeName: MotorbikeHandlebarSit
+      firstFrame: 35
+      lastFrame: 65
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: MotorbikeHandstand
+      takeName: MotorbikeHandstand
+      firstFrame: 29
+      lastFrame: 57
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: MotorbikeHeadStand
+      takeName: MotorbikeHeadStand
+      firstFrame: 60
+      lastFrame: 111
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: MotorbikeHeartAttack
+      takeName: MotorbikeHeartAttack
+      firstFrame: 24
+      lastFrame: 53
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: MotorbikeLasso
+      takeName: MotorbikeLasso
+      firstFrame: 18.5
+      lastFrame: 37.5999985
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: MotorbikeLookBack
+      takeName: MotorbikeLookBack
+      firstFrame: 15.8999996
+      lastFrame: 38.5999985
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: MotorbikeSeatStand
+      takeName: MotorbikeSeatStand
+      firstFrame: 23
+      lastFrame: 56
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: MotorbikeSeatStandWheely
+      takeName: MotorbikeSeatStandWheely
+      firstFrame: 19
+      lastFrame: 46
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: MotorbikeTurnLeft
+      takeName: MotorbikeTurn
+      firstFrame: -1
+      lastFrame: 71
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 1
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves:
+      - name: Curve
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: -Infinity
+            value: NaN
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 0
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 1
+            value: 1
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: MotorbikeWheely
+      takeName: MotorbikeWheely
+      firstFrame: 16
+      lastFrame: 53
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: MotorbikeWheelyNoHands
+      takeName: MotorbikeWheelyNoHands
+      firstFrame: 21
+      lastFrame: 45
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: MotorbikeEnter
+      takeName: MotorbikeEnter
+      firstFrame: 11
+      lastFrame: 31
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: MotorbikeEnterStep
+      takeName: MotorbikeEnter
+      firstFrame: 0
+      lastFrame: 11
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: MotorbikeExit
+      takeName: MotorbikeEnter
+      firstFrame: 35
+      lastFrame: 55
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: MotorbikeExitStep
+      takeName: MotorbikeEnter
+      firstFrame: 57
+      lastFrame: 68
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: hips
+      humanName: Hips
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: .131856963, y: 0, z: .0659284815}
+        length: .164821282
+        modified: 1
+    - boneName: thigh_L
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: -60.0000038, y: -60.0000038, z: -90}
+        max: {x: 60.0000038, y: 60.0000038, z: 50}
+        value: {x: .361302197, y: 0, z: .180651098}
+        length: .45162788
+        modified: 1
+    - boneName: thigh_R
+      humanName: RightUpperLeg
+      limit:
+        min: {x: -60.0000038, y: -60.0000038, z: -90}
+        max: {x: 60.0000038, y: 60.0000038, z: 50}
+        value: {x: .361302465, y: 0, z: .180651233}
+        length: .451628238
+        modified: 1
+    - boneName: shin_L
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: -90, y: 0, z: -80}
+        max: {x: 90, y: 0, z: 80}
+        value: {x: .367753744, y: 0, z: .183876872}
+        length: .459692329
+        modified: 1
+    - boneName: shin_R
+      humanName: RightLowerLeg
+      limit:
+        min: {x: -90, y: 0, z: -80}
+        max: {x: 90, y: 0, z: 80}
+        value: {x: .367754102, y: 0, z: .183877051}
+        length: .459692776
+        modified: 1
+    - boneName: foot_L
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: -30.0000019, z: -50}
+        max: {x: 0, y: 30.0000019, z: 50}
+        value: {x: .0893301666, y: 0, z: .0446650833}
+        length: .111662745
+        modified: 1
+    - boneName: foot_R
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: -30.0000019, z: -50}
+        max: {x: 0, y: 30.0000019, z: 50}
+        value: {x: .0893302187, y: 0, z: .0446651094}
+        length: .111662805
+        modified: 1
+    - boneName: spine
+      humanName: Spine
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: .119429857, y: 0, z: .0597149283}
+        length: .149287358
+        modified: 1
+    - boneName: chest
+      humanName: Chest
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: .238305062, y: 0, z: .119152531}
+        length: .297881395
+        modified: 1
+    - boneName: neck
+      humanName: Neck
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: .0512491912, y: 0, z: .0256245956}
+        length: .0640615076
+        modified: 1
+    - boneName: head
+      humanName: Head
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: .0512491912, y: 0, z: .0256245956}
+        length: .0640615076
+        modified: 1
+    - boneName: shoulder_L
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: -15.000001, z: -15.000001}
+        max: {x: 0, y: 15.000001, z: 30.0000019}
+        value: {x: .151156679, y: 0, z: .0755783394}
+        length: .188945919
+        modified: 1
+    - boneName: shoulder_R
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: -15.000001, z: -15.000001}
+        max: {x: 0, y: 15.000001, z: 30.0000019}
+        value: {x: .151156709, y: 0, z: .0755783543}
+        length: .188945949
+        modified: 1
+    - boneName: upper_arm_L
+      humanName: LeftUpperArm
+      limit:
+        min: {x: -90, y: -100, z: -60.0000038}
+        max: {x: 90, y: 100, z: 100}
+        value: {x: .195715651, y: 0, z: .0978578255}
+        length: .244644642
+        modified: 1
+    - boneName: upper_arm_R
+      humanName: RightUpperArm
+      limit:
+        min: {x: -90, y: -100, z: -60.0000038}
+        max: {x: 90, y: 100, z: 100}
+        value: {x: .19571577, y: 0, z: .0978578851}
+        length: .244644776
+        modified: 1
+    - boneName: forearm_L
+      humanName: LeftLowerArm
+      limit:
+        min: {x: -90, y: 0, z: -80}
+        max: {x: 90, y: 0, z: 80}
+        value: {x: .212161556, y: 0, z: .106080778}
+        length: .265202016
+        modified: 1
+    - boneName: forearm_R
+      humanName: RightLowerArm
+      limit:
+        min: {x: -90, y: 0, z: -80}
+        max: {x: 90, y: 0, z: 80}
+        value: {x: .212161765, y: 0, z: .106080882}
+        length: .265202284
+        modified: 1
+    - boneName: hand_L
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: -40, z: -80}
+        max: {x: 0, y: 40, z: 80}
+        value: {x: .106080778, y: 0, z: .053040389}
+        length: .132601008
+        modified: 1
+    - boneName: hand_R
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: -40, z: -80}
+        max: {x: 0, y: 40, z: 80}
+        value: {x: .106080882, y: 0, z: .0530404411}
+        length: .132601142
+        modified: 1
+    - boneName: toe_L
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: -50}
+        max: {x: 0, y: 0, z: 50}
+        value: {x: .0576211438, y: 0, z: .0288105719}
+        length: .0720264465
+        modified: 1
+    - boneName: toe_R
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: -50}
+        max: {x: 0, y: 0, z: 50}
+        value: {x: .0576212071, y: 0, z: .0288106035}
+        length: .0720265284
+        modified: 1
+    - boneName: Eye_L
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: -20, z: -10}
+        max: {x: 0, y: 20, z: 15.000001}
+        value: {x: .0799999759, y: 0, z: .0399999879}
+        length: .100000001
+        modified: 1
+    - boneName: Eye_R
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: -20, z: -10}
+        max: {x: 0, y: 20, z: 15.000001}
+        value: {x: .0799999759, y: 0, z: .0399999879}
+        length: .100000001
+        modified: 1
+    - boneName: Jaw
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: -10, z: -10}
+        max: {x: 0, y: 10, z: 10}
+        value: {x: .0799999759, y: 0, z: .0399999879}
+        length: .100000001
+        modified: 1
+    - boneName: thumb_01_L
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: -25, z: -20}
+        max: {x: 0, y: 25, z: 20}
+        value: {x: .0342224427, y: 0, z: .0171112213}
+        length: .042778071
+        modified: 1
+    - boneName: thumb_02_L
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -40}
+        max: {x: 0, y: 0, z: 35}
+        value: {x: .0210284889, y: 0, z: .0105142444}
+        length: .0262856204
+        modified: 1
+    - boneName: thumb_03_L
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: -40}
+        max: {x: 0, y: 0, z: 35}
+        value: {x: .0157713648, y: 0, z: .0078856824}
+        length: .0197142158
+        modified: 1
+    - boneName: f_index_01_L
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: -20, z: -50}
+        max: {x: 0, y: 20, z: 50}
+        value: {x: .0382048599, y: 0, z: .01910243}
+        length: .0477560945
+        modified: 1
+    - boneName: f_index_02_L
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: .0218912568, y: 0, z: .0109456284}
+        length: .0273640789
+        modified: 1
+    - boneName: f_index_03_L
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: .0164184403, y: 0, z: .00820922013}
+        length: .0205230601
+        modified: 1
+    - boneName: f_middle_01_L
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: -7.50000048, z: -50}
+        max: {x: 0, y: 7.50000048, z: 50}
+        value: {x: .0304530822, y: 0, z: .0152265411}
+        length: .0380663611
+        modified: 1
+    - boneName: f_middle_02_L
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: .0244148374, y: 0, z: .0122074187}
+        length: .030518556
+        modified: 1
+    - boneName: f_middle_03_L
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: .0183111262, y: 0, z: .00915556308}
+        length: .0228889175
+        modified: 1
+    - boneName: f_ring_01_L
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: -7.50000048, z: -50}
+        max: {x: 0, y: 7.50000048, z: 50}
+        value: {x: .0322309323, y: 0, z: .0161154661}
+        length: .040288683
+        modified: 1
+    - boneName: f_ring_02_L
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: .023857398, y: 0, z: .011928699}
+        length: .0298217572
+        modified: 1
+    - boneName: f_ring_03_L
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: .017893048, y: 0, z: .008946524}
+        length: .0223663189
+        modified: 1
+    - boneName: f_pinky_01_L
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: -20, z: -50}
+        max: {x: 0, y: 20, z: 50}
+        value: {x: .0246429686, y: 0, z: .0123214843}
+        length: .0308037195
+        modified: 1
+    - boneName: f_pinky_02_L
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: .0181420334, y: 0, z: .00907101668}
+        length: .0226775501
+        modified: 1
+    - boneName: f_pinky_03_L
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: .0136065269, y: 0, z: .00680326344}
+        length: .017008163
+        modified: 1
+    - boneName: thumb_01_R
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: -25, z: -20}
+        max: {x: 0, y: 25, z: 20}
+        value: {x: .0342226066, y: 0, z: .0171113033}
+        length: .0427782759
+        modified: 1
+    - boneName: thumb_02_R
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -40}
+        max: {x: 0, y: 0, z: 35}
+        value: {x: .0210285243, y: 0, z: .0105142621}
+        length: .0262856632
+        modified: 1
+    - boneName: thumb_03_R
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: -40}
+        max: {x: 0, y: 0, z: 35}
+        value: {x: .0157713909, y: 0, z: .00788569544}
+        length: .0197142474
+        modified: 1
+    - boneName: f_index_01_R
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: -20, z: -50}
+        max: {x: 0, y: 20, z: 50}
+        value: {x: .0382053517, y: 0, z: .0191026758}
+        length: .0477567054
+        modified: 1
+    - boneName: f_index_02_R
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: .0218908843, y: 0, z: .0109454421}
+        length: .0273636132
+        modified: 1
+    - boneName: f_index_03_R
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: .0164181609, y: 0, z: .00820908044}
+        length: .0205227099
+        modified: 1
+    - boneName: f_middle_01_R
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: -7.50000048, z: -50}
+        max: {x: 0, y: 7.50000048, z: 50}
+        value: {x: .0304539464, y: 0, z: .0152269732}
+        length: .0380674414
+        modified: 1
+    - boneName: f_middle_02_R
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: .0244149957, y: 0, z: .0122074978}
+        length: .0305187535
+        modified: 1
+    - boneName: f_middle_03_R
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: .0183112454, y: 0, z: .00915562268}
+        length: .0228890646
+        modified: 1
+    - boneName: f_ring_01_R
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: -7.50000048, z: -50}
+        max: {x: 0, y: 7.50000048, z: 50}
+        value: {x: .0322317071, y: 0, z: .0161158536}
+        length: .0402896516
+        modified: 1
+    - boneName: f_ring_02_R
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: .023857573, y: 0, z: .0119287865}
+        length: .0298219752
+        modified: 1
+    - boneName: f_ring_03_R
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: .0178931784, y: 0, z: .00894658919}
+        length: .0223664809
+        modified: 1
+    - boneName: f_pinky_01_R
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: -20, z: -50}
+        max: {x: 0, y: 20, z: 50}
+        value: {x: .0246426314, y: 0, z: .0123213157}
+        length: .0308032986
+        modified: 1
+    - boneName: f_pinky_02_R
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: .0181419365, y: 0, z: .00907096826}
+        length: .022677429
+        modified: 1
+    - boneName: f_pinky_03_R
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: .0136064542, y: 0, z: .00680322712}
+        length: .0170080718
+        modified: 1
+    skeleton:
+    - name: Motorbike
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: .99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: metarig
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -.707106769, y: 0, z: 0, w: .707106769}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: hips_main
+      position: {x: 0, y: -.0326696225, z: .953994751}
+      rotation: {x: -.380765557, y: -.380765498, z: -.59583348, w: .59583354}
+      scale: {x: .99999994, y: 1, z: .99999994}
+      transformModified: 1
+    - name: hips
+      position: {x: -.0230496619, y: -6.36640696e-09, z: .06961523}
+      rotation: {x: 1.76037545e-07, y: .989294291, z: -1.96828687e-08, w: .145933926}
+      scale: {x: .999999821, y: 1.00000012, z: .999999583}
+      transformModified: 1
+    - name: spine
+      position: {x: -.164821386, y: 2.09839559e-08, z: -1.05678623e-07}
+      rotation: {x: 1.3767324e-07, y: -.0173714906, z: -6.42055085e-08, w: .999849081}
+      scale: {x: .999999702, y: .999999762, z: 1.00000012}
+      transformModified: 1
+    - name: chest
+      position: {x: -.149287432, y: -7.68378805e-10, z: 1.45369782e-07}
+      rotation: {x: -1.50254351e-07, y: -.0891902819, z: 6.73867628e-09, w: .996014595}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: neck
+      position: {x: -.297881544, y: -7.63222108e-09, z: 9.94815466e-08}
+      rotation: {x: -.97505033, y: 4.39482619e-08, z: .221983597, w: -1.02294543e-07}
+      scale: {x: 1, y: 1, z: .999999881}
+      transformModified: 1
+    - name: head
+      position: {x: -.0640615895, y: 8.85038354e-09, z: -2.45688483e-07}
+      rotation: {x: .987002194, y: -8.29726687e-08, z: -.160706729, w: 5.49139898e-08}
+      scale: {x: .999999881, y: .999999642, z: .999999642}
+      transformModified: 1
+    - name: Eye_L
+      position: {x: -.0975518152, y: -.0333527699, z: .0647670999}
+      rotation: {x: -.725295186, y: -1.0122023e-07, z: .688437939, w: 8.75343389e-08}
+      scale: {x: 1.00000036, y: .999999821, z: 1}
+      transformModified: 1
+    - name: Eye_R
+      position: {x: -.0975518003, y: .0333527252, z: .0647671074}
+      rotation: {x: -.725295186, y: -1.0122023e-07, z: .688437939, w: 8.75343389e-08}
+      scale: {x: 1.00000024, y: .999999881, z: 1}
+      transformModified: 1
+    - name: Jaw
+      position: {x: -.025607707, y: -5.36825784e-09, z: .0209135842}
+      rotation: {x: 2.29736713e-07, y: .789867401, z: 8.41804635e-08, w: .613277555}
+      scale: {x: .999999523, y: 1, z: .999999344}
+      transformModified: 1
+    - name: shoulder_L
+      position: {x: -.244902134, y: -.0168663245, z: .0409842171}
+      rotation: {x: -.380263954, y: -.565181375, z: .40367651, w: .610749125}
+      scale: {x: 1.00000012, y: .99999994, z: 1.00000048}
+      transformModified: 1
+    - name: upper_arm_L
+      position: {x: -.188417181, y: -.0130953686, z: -.00529885245}
+      rotation: {x: .701147616, y: .132204577, z: .178544968, w: .677521586}
+      scale: {x: 1.00000048, y: .999999762, z: 1.0000006}
+      transformModified: 1
+    - name: forearm_L
+      position: {x: -.244644657, y: -6.16089551e-07, z: -6.64084254e-08}
+      rotation: {x: -.0476205014, y: .0144845592, z: -.0468461514, w: .997661173}
+      scale: {x: 1.00000024, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: hand_L
+      position: {x: -.265201896, y: -3.91571803e-07, z: -6.03552186e-09}
+      rotation: {x: .716167629, y: .0331716426, z: -.00422896445, w: .697126627}
+      scale: {x: 1.00000036, y: .999999464, z: .999999583}
+      transformModified: 1
+    - name: palm_01_L
+      position: {x: -.037005987, y: .0218180213, z: -.00361004332}
+      rotation: {x: -.0422997922, y: .0498925336, z: -.0479035489, w: .996707857}
+      scale: {x: .999999642, y: 1.00000024, z: .99999994}
+      transformModified: 1
+    - name: f_index_01_L
+      position: {x: -.0540058054, y: 6.03369301e-08, z: -1.02157264e-06}
+      rotation: {x: .0994582549, y: -.0223080795, z: .0247043725, w: .994484842}
+      scale: {x: .999999523, y: .999999464, z: 1.00000024}
+      transformModified: 1
+    - name: f_index_02_L
+      position: {x: -.047756087, y: -9.03155239e-08, z: 2.03049599e-09}
+      rotation: {x: .0169767011, y: .0254691634, z: .0195995811, w: .999339223}
+      scale: {x: 1, y: 1.0000006, z: 1.0000006}
+      transformModified: 1
+    - name: f_index_03_L
+      position: {x: -.0273640864, y: 1.01129721e-07, z: 1.22025583e-07}
+      rotation: {x: .0242158622, y: -.0611178018, z: .0314665847, w: .997340441}
+      scale: {x: 1.00000024, y: 1.00000012, z: .999999642}
+      transformModified: 1
+    - name: thumb_01_L
+      position: {x: .0112394514, y: .0160487723, z: .0272065494}
+      rotation: {x: -.644635677, y: .256031394, z: .26461944, w: -.669977009}
+      scale: {x: 1.00000024, y: .99999994, z: .999999642}
+      transformModified: 1
+    - name: thumb_02_L
+      position: {x: -.04277803, y: -8.08683637e-07, z: 5.8833038e-08}
+      rotation: {x: .031032104, y: .0384027176, z: -.00582105434, w: .998763382}
+      scale: {x: .999999702, y: 1.00000024, z: 1}
+      transformModified: 1
+    - name: thumb_03_L
+      position: {x: -.0262856353, y: 1.34201855e-06, z: -2.12420701e-07}
+      rotation: {x: .00752328942, y: -.137146086, z: -.0610263832, w: .988640487}
+      scale: {x: 1.00000036, y: .99999994, z: .999999762}
+      transformModified: 1
+    - name: palm_02_L
+      position: {x: -.0394115001, y: .00616489071, z: -.00686718058}
+      rotation: {x: -.0288459547, y: .0362949558, z: .0345860384, w: .998325765}
+      scale: {x: .999998927, y: 1.00000048, z: .999999046}
+      transformModified: 1
+    - name: f_middle_01_L
+      position: {x: -.0628621802, y: 8.12668688e-08, z: -1.69407565e-06}
+      rotation: {x: .0535211377, y: -.0189111438, z: -.00877502281, w: .998349011}
+      scale: {x: .999999285, y: .999999523, z: 1.00000024}
+      transformModified: 1
+    - name: f_middle_02_L
+      position: {x: -.0380664319, y: 1.50010692e-07, z: 1.48948357e-06}
+      rotation: {x: -.0282078981, y: .0183742214, z: -.0122381421, w: .999358177}
+      scale: {x: 1, y: .999999762, z: .999999881}
+      transformModified: 1
+    - name: f_middle_03_L
+      position: {x: -.0305185728, y: -3.59116403e-09, z: 7.5244003e-07}
+      rotation: {x: .018902855, y: -.0197985601, z: .00715817837, w: .999599576}
+      scale: {x: .999999702, y: .999999464, z: .999999285}
+      transformModified: 1
+    - name: palm_03_L
+      position: {x: -.0375930741, y: -.00838592276, z: -.00707405386}
+      rotation: {x: -.0160470065, y: .0458706617, z: .123146951, w: .991197824}
+      scale: {x: 1.00000036, y: 1.00000083, z: 1.00000048}
+      transformModified: 1
+    - name: f_ring_01_L
+      position: {x: -.0594126284, y: -1.44558953e-07, z: 1.00029979e-06}
+      rotation: {x: -.0230744705, y: -.0307328925, z: -.070253402, w: .996788561}
+      scale: {x: .999998987, y: .999999762, z: 1}
+      transformModified: 1
+    - name: f_ring_02_L
+      position: {x: -.0402887203, y: -1.80619288e-08, z: 6.89493845e-07}
+      rotation: {x: .0158685744, y: .0319499969, z: .0269628111, w: .998999655}
+      scale: {x: 1, y: .999999523, z: .999998808}
+      transformModified: 1
+    - name: f_ring_03_L
+      position: {x: -.029821774, y: -4.961095e-08, z: 3.89926385e-07}
+      rotation: {x: .0518859662, y: -.0362538844, z: -.0124817062, w: .997916639}
+      scale: {x: .999999881, y: 1.00000012, z: 1.00000036}
+      transformModified: 1
+    - name: palm_04_L
+      position: {x: -.033796303, y: -.0223530438, z: -.00572898751}
+      rotation: {x: .0324460864, y: .097063452, z: .196708322, w: .975106001}
+      scale: {x: .999999642, y: .99999994, z: 1.00000072}
+      transformModified: 1
+    - name: f_pinky_01_L
+      position: {x: -.0524636582, y: -1.55979095e-07, z: -1.21674688e-07}
+      rotation: {x: -.141324192, y: -.090055421, z: -.137098253, w: .976279438}
+      scale: {x: .999998927, y: .99999994, z: 1.00000024}
+      transformModified: 1
+    - name: f_pinky_02_L
+      position: {x: -.0308037288, y: 1.84052311e-07, z: -4.35849586e-07}
+      rotation: {x: .0247599743, y: .0262693781, z: .0248177983, w: .999040008}
+      scale: {x: 1, y: .999999762, z: .999999821}
+      transformModified: 1
+    - name: f_pinky_03_L
+      position: {x: -.0226775631, y: -1.56367307e-07, z: 5.70972816e-07}
+      rotation: {x: .021637205, y: -.00562809408, z: -.0315964296, w: .999250591}
+      scale: {x: .999999762, y: 1.00000024, z: .99999994}
+      transformModified: 1
+    - name: shoulder_R
+      position: {x: -.244902134, y: .0168663114, z: .0409842208}
+      rotation: {x: -.380263925, y: .565181434, z: .403676391, w: -.610749185}
+      scale: {x: .999999821, y: 1.00000012, z: 1.00000048}
+      transformModified: 1
+    - name: upper_arm_R
+      position: {x: -.188417211, y: .0130954105, z: -.00529895816}
+      rotation: {x: .701147556, y: -.132204458, z: .178545445, w: -.677521646}
+      scale: {x: 1.00000083, y: 1.00000036, z: 1.0000006}
+      transformModified: 1
+    - name: forearm_R
+      position: {x: -.244644701, y: 5.48370906e-07, z: -9.05116408e-08}
+      rotation: {x: -.0476206318, y: -.0144838225, z: -.0468450598, w: -.997661233}
+      scale: {x: .999999523, y: .999999404, z: .999999821}
+      transformModified: 1
+    - name: hand_R
+      position: {x: -.265202314, y: -6.65409573e-07, z: -2.07467146e-08}
+      rotation: {x: .981985211, y: -.0253258012, z: -.021836916, w: -.185974821}
+      scale: {x: 1, y: 1.00000083, z: 1.00000048}
+      transformModified: 1
+    - name: palm_01_R
+      position: {x: -.0370064005, y: -.00519811315, z: -.0214951299}
+      rotation: {x: .5537135, y: .012533999, z: .068021521, w: .829829633}
+      scale: {x: .999999583, y: .999999642, z: .999999762}
+      transformModified: 1
+    - name: f_index_01_R
+      position: {x: -.0540053174, y: -7.48581854e-08, z: 1.60185493e-07}
+      rotation: {x: -.0157318264, y: -.0224663839, z: -.0245605763, w: .999321997}
+      scale: {x: 1.00000048, y: .999999881, z: 1.00000012}
+      transformModified: 1
+    - name: f_index_02_R
+      position: {x: -.0477567054, y: 9.03500776e-08, z: -9.0360362e-07}
+      rotation: {x: -.0172751714, y: .0236030743, z: -.0218109153, w: .999334097}
+      scale: {x: 1.00000012, y: .99999994, z: 1.00000036}
+      transformModified: 1
+    - name: f_index_03_R
+      position: {x: -.0273636337, y: -1.25881357e-07, z: 8.61577746e-07}
+      rotation: {x: .05047803, y: -.0654490665, z: -.0210227482, w: .996356547}
+      scale: {x: 1.00000024, y: .999999821, z: .999999523}
+      transformModified: 1
+    - name: thumb_01_R
+      position: {x: .0112397932, y: -.0181074943, z: .0258833338}
+      rotation: {x: .518668175, y: .180235773, z: .321077198, w: .771626651}
+      scale: {x: .999999821, y: 1.00000024, z: 1.0000006}
+      transformModified: 1
+    - name: thumb_02_R
+      position: {x: -.0427783169, y: -1.04306207e-06, z: -8.20036632e-07}
+      rotation: {x: -.0335591696, y: -.0307757501, z: -.0237000808, w: .998681545}
+      scale: {x: 1.00000036, y: 1.00000024, z: 1.0000006}
+      transformModified: 1
+    - name: thumb_03_R
+      position: {x: -.0262856744, y: 6.54271844e-07, z: 5.599681e-07}
+      rotation: {x: -.0274756309, y: .149206713, z: .0164521746, w: .98828727}
+      scale: {x: .999999762, y: .999999523, z: .99999994}
+      transformModified: 1
+    - name: palm_02_R
+      position: {x: -.0394123681, y: .00391558697, z: -.00835830346}
+      rotation: {x: .5655182, y: .0494556315, z: -.00822576229, w: .823210537}
+      scale: {x: 1.00000012, y: .999999404, z: .999999642}
+      transformModified: 1
+    - name: f_middle_01_R
+      position: {x: -.0628616214, y: 6.35546229e-08, z: 1.84717464e-07}
+      rotation: {x: -.0144947795, y: -.0187717434, z: .0090693729, w: .999677539}
+      scale: {x: .999999821, y: 1, z: 1.00000024}
+      transformModified: 1
+    - name: f_middle_02_R
+      position: {x: -.0380674489, y: -4.88475678e-08, z: -7.81849451e-07}
+      rotation: {x: -.0199236199, y: .0184538122, z: .0121177277, w: .999557674}
+      scale: {x: 1.00000072, y: 1.00000048, z: 1.00000024}
+      transformModified: 1
+    - name: f_middle_03_R
+      position: {x: -.0305187162, y: 2.52331152e-08, z: 3.14884744e-07}
+      rotation: {x: -.00850829016, y: -.0195655841, z: -.00777262636, w: .999742091}
+      scale: {x: 1.00000036, y: .999999762, z: 1.00000048}
+      transformModified: 1
+    - name: palm_03_R
+      position: {x: -.0375931114, y: .00978749059, z: .00495665008}
+      rotation: {x: .544652939, y: .107697383, z: -.0753031373, w: .828301728}
+      scale: {x: 1.00000048, y: 1.00000024, z: 1.00000012}
+      transformModified: 1
+    - name: f_ring_01_R
+      position: {x: -.0594126917, y: 9.95963632e-08, z: 5.77156811e-07}
+      rotation: {x: -.0162121318, y: -.0361110754, z: .0676464736, w: .996923804}
+      scale: {x: 1.00000024, y: .999999464, z: 1.00000012}
+      transformModified: 1
+    - name: f_ring_02_R
+      position: {x: -.0402896218, y: -6.06573813e-09, z: -6.18613797e-07}
+      rotation: {x: .00885628909, y: .0343067907, z: -.0238923412, w: .99908644}
+      scale: {x: 1.00000012, y: .999999702, z: 1.00000036}
+      transformModified: 1
+    - name: f_ring_03_R
+      position: {x: -.0298219845, y: 5.52859021e-08, z: -1.04930086e-06}
+      rotation: {x: -.0238194056, y: -.036721386, z: .0110306824, w: .998980701}
+      scale: {x: 1.00000048, y: 1.00000012, z: 1.00000036}
+      transformModified: 1
+    - name: palm_04_R
+      position: {x: -.0337964855, y: .0140054142, z: .0183395054}
+      rotation: {x: .554477334, y: .183405399, z: -.120324381, w: .802769721}
+      scale: {x: .99999994, y: .999999106, z: .999999821}
+      transformModified: 1
+    - name: f_pinky_01_R
+      position: {x: -.0524637401, y: -1.3654649e-07, z: -6.62419609e-07}
+      rotation: {x: -.00190565665, y: -.0954471827, z: .133412629, w: .986451805}
+      scale: {x: 1.00000048, y: 1.00000012, z: 1.00000072}
+      transformModified: 1
+    - name: f_pinky_02_R
+      position: {x: -.0308032893, y: 1.09422615e-07, z: 1.30390572e-06}
+      rotation: {x: .00218934985, y: .0298570637, z: -.0203608088, w: .999344349}
+      scale: {x: .999999464, y: 1.00000036, z: .999999404}
+      transformModified: 1
+    - name: f_pinky_03_R
+      position: {x: -.0226774532, y: 8.33645117e-08, z: 1.27624901e-07}
+      rotation: {x: -.0334861018, y: -.0100850817, z: .0304680541, w: .998923719}
+      scale: {x: .999999642, y: .999999821, z: .999999106}
+      transformModified: 1
+    - name: thigh_L
+      position: {x: -.0633669421, y: -.0920198262, z: .0316196568}
+      rotation: {x: .0149434581, y: -.998887122, z: .00263246452, w: -.0446562096}
+      scale: {x: .999999583, y: .999999344, z: .999999762}
+      transformModified: 1
+    - name: shin_L
+      position: {x: -.451628238, y: 5.76737982e-08, z: 8.29482687e-08}
+      rotation: {x: -.0024453681, y: .0133047216, z: .00188209699, w: .999906719}
+      scale: {x: 1.0000006, y: 1.00000048, z: 1.00000012}
+      transformModified: 1
+    - name: foot_L
+      position: {x: -.459692389, y: 7.26428828e-09, z: 8.46350048e-08}
+      rotation: {x: .0389072634, y: .491739452, z: -.0914851651, w: -.865048528}
+      scale: {x: .99999994, y: .999999702, z: .999999285}
+      transformModified: 1
+    - name: toe_L
+      position: {x: -.144052938, y: 5.63909675e-09, z: -1.74373209e-08}
+      rotation: {x: -.951947212, y: -.0399693772, z: -.295884758, w: -.0681991801}
+      scale: {x: .999999881, y: .99999994, z: .999999762}
+      transformModified: 1
+    - name: thigh_R
+      position: {x: -.0633677021, y: .0920199156, z: .0316195339}
+      rotation: {x: -.0151189156, y: -.998889744, z: .00128930435, w: -.0445971787}
+      scale: {x: .999999642, y: .999999642, z: 1.00000048}
+      transformModified: 1
+    - name: shin_R
+      position: {x: -.451628596, y: 5.74429144e-08, z: 3.04904155e-08}
+      rotation: {x: -.00169529754, y: .0132975914, z: -.00193152728, w: .999908209}
+      scale: {x: 1.00000036, y: 1.00000012, z: .99999994}
+      transformModified: 1
+    - name: foot_R
+      position: {x: -.459692925, y: -3.60778607e-08, z: 1.33282711e-07}
+      rotation: {x: -.0390933491, y: .491719663, z: .0915907249, w: -.865040064}
+      scale: {x: 1.00000036, y: .999999881, z: .999999285}
+      transformModified: 1
+    - name: toe_R
+      position: {x: -.144053057, y: 3.27625607e-08, z: 1.50207402e-08}
+      rotation: {x: -.951947153, y: .0399694145, z: -.295884818, w: .0681990683}
+      scale: {x: .99999994, y: .999999821, z: 1.00000036}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  additionalBone: 0
+  userData: 

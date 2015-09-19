@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 75b1a4b86ec0d5942aa53d2f41d78319
+labels:
+- USFX
+- stereo
+- sci-fi
+- robotic
+- transform
+- insect
+AudioImporter:
+  serializedVersion: 4
+  format: -1
+  quality: -1
+  stream: 1
+  3D: 1
+  forceToMono: 0
+  useHardware: 0
+  loopable: 0
+  userData: 

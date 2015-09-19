@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../lait/base/Assets/Scripts/NetworkController_Client.cs">
+    <Files>
+      <File FileName="../../lait/base/Assets/Scripts/NetworkController_Client.cs" Line="1" Column="1" />
+      <File FileName="../../lait/base/Assets/Scripts/NetworkController.cs" Line="1" Column="1" />
+      <File FileName="../../lait/base/Assets/Scripts/QList.cs" Line="1" Column="1" />
+      <File FileName="../../lait/base/Assets/Scripts/TextDisplay.cs" Line="1" Column="1" />
+      <File FileName="../../lait/base/Assets/Scripts/WebAsset.cs" Line="1" Column="1" />
+      <File FileName="../../lait/base/Assets/Scripts/VideoDisplay.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

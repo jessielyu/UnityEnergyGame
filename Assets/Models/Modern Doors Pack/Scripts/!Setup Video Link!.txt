@@ -1,0 +1,2 @@
+There are some requirements for the scripts to work. Please refer to the door setup video here:
+https://www.youtube.com/watch?v=228MAcfMVXA

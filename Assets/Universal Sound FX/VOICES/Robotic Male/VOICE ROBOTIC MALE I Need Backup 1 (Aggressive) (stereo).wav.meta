@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: a69671b7b9e2c0d45a623afb36684c28
+labels:
+- voice
+- robotic
+- USFX
+- stereo
+- sci-fi
+- male
+AudioImporter:
+  serializedVersion: 4
+  format: -1
+  quality: -1
+  stream: 1
+  3D: 1
+  forceToMono: 0
+  useHardware: 0
+  loopable: 0
+  userData: 
